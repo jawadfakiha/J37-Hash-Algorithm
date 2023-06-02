@@ -5,6 +5,6 @@ This repository contains a basic example of a hash algorithm implemented in Pyth
 
 The main goal of this project is to provide a clear demonstration of how hash algorithms work and to highlight the concept of one-way algorithms. The code is intentionally simplified and lacks the necessary security measures and complexity required for real-world hash algorithms.
 
-Also that code simulates the way that databases safley store and authenticate passwords when the user enter by simulating a simple Register and Sign-in Panel and apply the J37 Hash Algorithm to it     
+Also that code simulates the way that databases safely store and authenticate passwords when the user enter by simulating a simple Register and Sign-in Panel and apply the J37 Hash Algorithm to it     
 
 Use this repository as a learning resource and starting point for understanding the principles of hash algorithms
